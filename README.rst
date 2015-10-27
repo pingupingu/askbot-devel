@@ -1,3 +1,5 @@
+NOTE: See INSTALLATION.rst for installation
+
 ===================
 Askbot - Q&A forum
 ===================
